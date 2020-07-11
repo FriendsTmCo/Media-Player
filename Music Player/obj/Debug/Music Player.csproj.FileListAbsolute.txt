@@ -1,0 +1,14 @@
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\bin\Debug\Music Player.exe.config
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\bin\Debug\Music Player.exe
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\bin\Debug\Music Player.pdb
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\MainWindow.g.cs
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\App.g.cs
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player_MarkupCompile.cache
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player_MarkupCompile.lref
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\MainWindow.baml
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player.g.resources
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player.exe
+D:\New folder\project\Cs\Cs\WPF\Music Player\Music Player\obj\Debug\Music Player.pdb
